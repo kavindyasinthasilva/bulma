@@ -42,6 +42,10 @@
   transform: rotate(-45deg);
   transform-origin: center;
   width: 0.625em;
+  display:block;
+  margin:center;
+  margin-left:20px;
+  background:center;
 }
 
 .box:not(:last-child), .content:not(:last-child), .notification:not(:last-child), .progress:not(:last-child), .table:not(:last-child), .table-container:not(:last-child), .title:not(:last-child),
